@@ -26,6 +26,7 @@
     "cssnext": "^1.6.0",
     "eslint": "^0.22.1",
     "postcss": "^4.1.11",
-    "postcss-nested": "^0.3.2"
+    "postcss-nested": "^0.3.2",
+    "sanitize.css": "^1.1.0"
   }
 }
