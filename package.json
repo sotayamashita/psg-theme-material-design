@@ -1,8 +1,7 @@
 {
   "name": "psg-theme-material-design",
-  "version": "0.0.0",
-  "private": true,
-  "description": "psg theme material design theme for postcss-style-guide",
+  "version": "0.0.1",
+  "description": "psg theme material design theme for postCSS Style Guide",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,17 +15,10 @@
     "style-guide",
     "postcss"
   ],
-  "author": "<yourname>",
-  "license": "ISC",
+  "author": "Sota Yamashita",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/sotayamashita/psg-theme-material-design/issues"
   },
   "homepage": "https://github.com/sotayamashita/psg-theme-material-design#readme",
-  "devDependencies": {
-    "cssnext": "^1.6.0",
-    "eslint": "^0.22.1",
-    "postcss": "^4.1.11",
-    "postcss-nested": "^0.3.2",
-    "sanitize.css": "^1.1.0"
-  }
 }
