@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/sotayamashita/psg-theme-material-design/issues"
   },
-  "homepage": "https://github.com/sotayamashita/psg-theme-material-design#readme"
+  "homepage": "https://github.com/sotayamashita/psg-theme-material-design#readme",
+  "dependencies": {
+    "material-design-lite": "^1.0.0-3"
+  }
 }
