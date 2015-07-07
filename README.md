@@ -15,6 +15,6 @@ $ npm install psg-theme-material-design
 
 TODO
 
-## Theme
+## License
 
 MIT © Sota Yamashita
